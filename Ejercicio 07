@@ -1,6 +1,6 @@
 **Nombre:** Chavez Hernandez Emmanuel Isai
 **Número de Control:** 23211005  
-// Descripción: Programa que Implementa una pila usando un arreglo.
+// Descripción: Programa que Implementa una cola usando un arreglo.
 
 /*using System;
 using System.Collections.Generic;
